@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+body {
+    font-size: 16px
+        
+    
+        font-family:"Higagino kaku Gothic ProN","ヒラギノ角ゴ　ProN", Meiryo, "MS Pゴシック", sans-serif;
+    background-color:gainsboro
+}
+p{
+    color: #006e54;
+    
+    font-size: 20px;
+    
+    margin-left: 4%;
+    margin-right: 4%;
+    
+    /*serif: 明朝体系　sans-serif: ゴシック体系*/
+    
+    
+    line-height: 2em;
+    
+    text-align:justify;
+    
+}
+h1{ 
+    text-algin:center;
+    background-color: gainsboro;
+}
+h2{
+   font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    color:#7a4171;
+}
+
+div{
+    background-color: gainsboro;
+    
+}
+ul{
+    list-style: none;
+}
+
+a:link{
+    color: #005500;
+}
+a:visited{
+    color: #895b8a;
+}

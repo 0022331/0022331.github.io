@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+body {
+    font-size: 16px
+        
+    
+        font-family:serif,"Hiragino kaku Gothic ProN","ヒラギノ角ゴ　ProN", "メイリオ", "MS Pゴシック", sans-serif;
+    background-color:beige 
+}
+p{
+    color: #895b8a;
+    
+    font-size: 20px;
+    
+    margin-left: 4%;
+    margin-right: 4%;
+    
+    
+    line-height: 2em;
+    
+    text-align:justify;
+    
+}
+h1{ 
+    text-align:center;
+    
+    background-color: beige;
+}
+h2{
+   font-size: 30px;
+}
+
+div{
+    background-color: beige;
+    
+}
+ul{
+    list-style: none;
+}
+
+
+a:link{
+    color: #005500;
+}
+a:visited{
+    color: #895b8a;
+}
+a{
+    text-decoration: none;
+}
+
+input[type -"submit"]{
+    border: 2px solid #0086F9;
+    border-radius: 4px;
+    
+    background: linear-gradient(0deg, #0086f9, #b6d6f7);
+    color: #FFF;
+}
